@@ -1,0 +1,179 @@
+Cmp-Mod V01 Created by PcbNew   date = Thu Sep 26 21:46:13 2019
+
+BeginCmp
+TimeStamp = 5D8D857C
+Path = /5D8C80F0
+Reference = J3;
+ValeurCmp = Conn_01x10;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8DA7A2
+Path = /5D8F2349
+Reference = J4;
+ValeurCmp = TEMP;
+IdModule  = footprint-lib:691322310002;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC88B
+Path = /5D8F1DF1
+Reference = J2;
+ValeurCmp = HEATER;
+IdModule  = footprint-lib:691322310002;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC849
+Path = /5D8F27AC
+Reference = J6;
+ValeurCmp = FAN;
+IdModule  = footprint-lib:691322310002;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC86A
+Path = /5D8F250A
+Reference = J5;
+ValeurCmp = COOL_FAN;
+IdModule  = footprint-lib:691322310002;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8D8B1A
+Path = /5D8CA468
+Reference = J1;
+ValeurCmp = Z PROBE;
+IdModule  = footprint-lib:691322110003;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8D3AFC
+Path = /5D8DC1B9
+Reference = H4;
+ValeurCmp = MountingHole;
+IdModule  = footprint-lib:MountingHole_2.7mm_M2.5,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8D3AF2
+Path = /5D8DC1AF
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = footprint-lib:MountingHole_2.7mm_M2.5,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8D3AE8
+Path = /5D8DBFF3
+Reference = H2;
+ValeurCmp = MountingHole;
+IdModule  = footprint-lib:MountingHole_2.7mm_M2.5,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8D3ADE
+Path = /5D8DBCD0
+Reference = H1;
+ValeurCmp = MountingHole;
+IdModule  = footprint-lib:MountingHole_2.7mm_M2.5,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8DB406
+Path = /5D94D219
+Reference = R4;
+ValeurCmp = R561,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC8FC
+Path = /5D94CFED
+Reference = R3;
+ValeurCmp = R561,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC92C
+Path = /5D94CC17
+Reference = R2;
+ValeurCmp = R561,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC81E
+Path = /5D94C497
+Reference = R1;
+ValeurCmp = R561,0603;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8DB2F6
+Path = /5D94F0F8
+Reference = D4;
+ValeurCmp = PROBE;
+IdModule  = footprint-lib:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC798
+Path = /5D94EE69
+Reference = D3;
+ValeurCmp = HEAT;
+IdModule  = footprint-lib:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC8BB
+Path = /5D94EB84
+Reference = D2;
+ValeurCmp = FAN;
+IdModule  = footprint-lib:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8CC7DD
+Path = /5D94DFD0
+Reference = D1;
+ValeurCmp = COOL_FAN;
+IdModule  = footprint-lib:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8DAC0B
+Path = /5D91830B
+Reference = C3;
+ValeurCmp = CP10uf,25V;
+IdModule  = Capacitor_SMD:CP_Elec_4x5.3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8DABE3
+Path = /5D902EEE
+Reference = C2;
+ValeurCmp = CP10uf,25V;
+IdModule  = Capacitor_SMD:CP_Elec_4x5.3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8DABBB
+Path = /5D90BDF1
+Reference = C1;
+ValeurCmp = CP10uf,25V;
+IdModule  = Capacitor_SMD:CP_Elec_4x5.3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8D9554
+Path = /5D8ECEB3
+Reference = JP1;
+ValeurCmp = HOTEND_GND;
+IdModule  = Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm;
+EndCmp
+
+EndListe
