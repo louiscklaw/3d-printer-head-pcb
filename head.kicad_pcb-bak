@@ -11,10 +11,10 @@
 
   (page User 215.9 139.7)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user)
-    (33 F.Adhes user)
+    (33 F.Adhes user hide)
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user)
@@ -62,7 +62,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFFF7F)
+    (visible_elements FFF67967)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -972,7 +972,7 @@
       ))
   )
 
-  (gr_text "louiscklaw.github.io\n2019-09-26-print1" (at 101.346 40.894 90) (layer B.SilkS) (tstamp 5D8D620B)
+  (gr_text "louiscklaw.github.io\n2019-SEP-26-print1" (at 101.346 40.894 90) (layer B.SilkS) (tstamp 5D8D620B)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left mirror))
   )
   (gr_text "VORON-3D-PRINTER\nHOTEND TERMINAL" (at 108.458 53.086 90) (layer B.SilkS)
