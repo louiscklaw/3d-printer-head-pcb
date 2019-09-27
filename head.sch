@@ -500,4 +500,15 @@ F 3 "~" H 3150 4700 50  0001 C CNN
 	1    3150 4700
 	1    0    0    -1  
 $EndComp
+$Comp
+L taobao-components:logo_icon U1
+U 1 1 5D8E3219
+P 2700 4800
+F 0 "U1" H 2878 5096 50  0000 L CNN
+F 1 "logo_icon" H 2878 5005 50  0000 L CNN
+F 2 "footprint-lib:logo_icon_2000" H 2700 4800 50  0001 C CNN
+F 3 "" H 2700 4800 50  0001 C CNN
+	1    2700 4800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

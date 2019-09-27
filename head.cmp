@@ -1,4 +1,28 @@
-Cmp-Mod V01 Created by PcbNew   date = Thu Sep 26 21:46:13 2019
+Cmp-Mod V01 Created by PcbNew   date = Fri Sep 27 15:28:55 2019
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = ;
+EndCmp
 
 BeginCmp
 TimeStamp = 5D8D857C
@@ -57,7 +81,7 @@ IdModule  = footprint-lib:MountingHole_2.7mm_M2.5,rpi_like;
 EndCmp
 
 BeginCmp
-TimeStamp = 5D8D3AF2
+TimeStamp = 5D8DB2DE
 Path = /5D8DC1AF
 Reference = H3;
 ValeurCmp = MountingHole;
@@ -65,7 +89,7 @@ IdModule  = footprint-lib:MountingHole_2.7mm_M2.5,rpi_like;
 EndCmp
 
 BeginCmp
-TimeStamp = 5D8D3AE8
+TimeStamp = 5D8DB2C3
 Path = /5D8DBFF3
 Reference = H2;
 ValeurCmp = MountingHole;
@@ -89,7 +113,7 @@ IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
 EndCmp
 
 BeginCmp
-TimeStamp = 5D8CC8FC
+TimeStamp = 5D8DB695
 Path = /5D94CFED
 Reference = R3;
 ValeurCmp = R561,0603;
@@ -97,7 +121,7 @@ IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
 EndCmp
 
 BeginCmp
-TimeStamp = 5D8CC92C
+TimeStamp = 5D8DB665
 Path = /5D94CC17
 Reference = R2;
 ValeurCmp = R561,0603;
@@ -105,7 +129,7 @@ IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
 EndCmp
 
 BeginCmp
-TimeStamp = 5D8CC81E
+TimeStamp = 5D8DB6D1
 Path = /5D94C497
 Reference = R1;
 ValeurCmp = R561,0603;
@@ -121,7 +145,7 @@ IdModule  = footprint-lib:LED_0805_2012Metric;
 EndCmp
 
 BeginCmp
-TimeStamp = 5D8CC798
+TimeStamp = 5D8DB627
 Path = /5D94EE69
 Reference = D3;
 ValeurCmp = HEAT;
@@ -129,7 +153,7 @@ IdModule  = footprint-lib:LED_0805_2012Metric;
 EndCmp
 
 BeginCmp
-TimeStamp = 5D8CC8BB
+TimeStamp = 5D8DB5DF
 Path = /5D94EB84
 Reference = D2;
 ValeurCmp = FAN;
@@ -140,7 +164,7 @@ BeginCmp
 TimeStamp = 5D8CC7DD
 Path = /5D94DFD0
 Reference = D1;
-ValeurCmp = COOL_FAN;
+ValeurCmp = COOL;
 IdModule  = footprint-lib:LED_0805_2012Metric;
 EndCmp
 
